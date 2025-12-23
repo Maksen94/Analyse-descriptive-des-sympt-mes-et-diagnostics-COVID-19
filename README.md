@@ -2,6 +2,10 @@
 
 Ce projet constitue ma première réalisation pratique en analyse de données. L'objectif principal était de maîtriser le cycle de vie complet de la donnée, de l'extraction à la visualisation, en respectant un cahier des charges fonctionnel strict.
 
+🔗 Accès au Projet
+
+* [Lien vers le Google Sheet](https://docs.google.com/spreadsheets/d/1s1ESg7HM7SulELOBB_1KzpHCFWjwXttk_07mKrzgXFo/edit?usp=sharing) 
+
 🎯 Objectifs du projet
 
 * Explorer un jeu de données clinique pour identifier des tendances.
@@ -13,7 +17,6 @@ Ce projet constitue ma première réalisation pratique en analyse de données. L
 Le jeu de données utilisé est issu de la plateforme Kaggle : "COVID-19 Patient Symptoms and Diagnosis Dataset".
 Il recense les données démographiques et cliniques de patients répartis sur plusieurs zones géographiques.
 
-* Base de données : 482 cas patients analysés.
 * Lien Kaggle : https://www.kaggle.com/datasets/shraddha4ever20/covid-19-patient-symptoms-and-diagnosis-dataset
 
 🛠️ Outils & Méthodologie
@@ -48,10 +51,6 @@ Il existe une forte disparité des symptômes selon les villes :
 📝 Conclusion
 
 Cette analyse démontre que si l'âge est un facteur de risque constant, la symptomatologie varie fortement selon les zones géographiques. Cela suggère l'importance d'adapter les protocoles de détection aux spécificités locales plutôt que d'appliquer un modèle unique.
-
-🔗 Accès au Projet
-
-* [Lien vers le Google Sheet](https://docs.google.com/spreadsheets/d/1s1ESg7HM7SulELOBB_1KzpHCFWjwXttk_07mKrzgXFo/edit?usp=sharing) 
 
 
 ---
